@@ -1,2 +1,2 @@
 Hi! 2nd Change -> I'm Bob. After being added, I'm being changed now.
-3rd Change on Master branch
+4th conflicting change on Master branch
