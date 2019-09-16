@@ -5,3 +5,5 @@ Updated Alice.txt directly on github on the master branch.
 2nd update to Alice.txt on github master branch
 3rd update to Alice.txt on github master branch
 4th update confliting with remote
+4th update conflicting with the ones made on local repository
+Retaining both
