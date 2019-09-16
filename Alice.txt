@@ -7,4 +7,4 @@ Updated Alice.txt directly on github on the master branch.
 4th update confliting with remote
 4th update conflicting with the ones made on local repository
 Retaining both
-5th update to Alice.txt made on remote repository
+5th update to Alice.txt made on remote repository and Subsequent update made locally on master
