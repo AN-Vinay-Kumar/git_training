@@ -1,2 +1,2 @@
 Hi, Patrick here. No tricks, I assure.
-For rebase: change on REAL master
+Rebase: resolved the conflicts between master and add_patrick during rebase
