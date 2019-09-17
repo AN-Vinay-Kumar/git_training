@@ -1,3 +1,3 @@
 Hi! 2nd Change -> I'm Bob. After being added, I'm being changed now.
 4th conflicting change resolved and the final change being included here.
-5th conflicting change being made directly on remote concurrently with local
+5th resolved the 5th conflicting change made concurrently across local and remote
